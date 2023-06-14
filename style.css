@@ -332,6 +332,7 @@ header {
 .project:hover .project-name {
   width: 100%;
   left: 0;
+  display: block;
 }
 a:link, a:visited, a:active {
   color: #0628A1
