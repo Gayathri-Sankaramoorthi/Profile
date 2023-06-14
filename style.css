@@ -327,6 +327,7 @@ header {
   text-align: center;
   padding:100px;
   color:#0628A1;
+  display: none;
 }
 .project:hover .project-name {
   width: 100%;
