@@ -333,7 +333,6 @@ header {
   width: 100%;
   left: 0;
   opacity: 1;
-  transition: 0.5s linear;
 }
 a:link, a:visited, a:active {
   color: #0628A1
