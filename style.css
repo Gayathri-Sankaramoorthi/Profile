@@ -327,12 +327,12 @@ header {
   text-align: center;
   padding:100px;
   color:#0628A1;
-  display: none;
+  opacity: 0;
 }
 .project:hover .project-name {
   width: 100%;
   left: 0;
-  display: block;
+  opacity: 1;
 }
 a:link, a:visited, a:active {
   color: #0628A1
